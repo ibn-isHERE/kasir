@@ -196,5 +196,4 @@ Untuk bantuan atau pertanyaan:
 
 ---
 
-**Developed with ❤️ by Claude AI**
 **Sistem Kasir Native PHP - No Framework, Pure Power!**
